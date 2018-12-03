@@ -1,0 +1,16 @@
+.navbar {
+	box-shadow: 2px 2px 5px #000;
+}
+
+.navbar .nav-item .nav-link {
+	color: white;
+}
+
+.backgroungimg
+{
+	background: url(../trapImg/bg.jpg);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
