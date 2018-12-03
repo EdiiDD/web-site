@@ -1,2 +1,9 @@
+# Files #
+######################
 images
 trapImg
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
